@@ -287,10 +287,10 @@ section {
 
 .home-img img {
   position: absolute;
-  bottom: 0;
-  right: 40px;
+  bottom: 0px;
+  right: -90px;
   pointer-events: none;
-  max-width: 480px;
+  max-width: 680px;
   max-height: 100vh;
 }
 
